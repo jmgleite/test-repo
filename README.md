@@ -1,3 +1,3 @@
 ####  test R with Git
-* 2016 @jorge_leite
+*2016 @jorge_leite*
 
