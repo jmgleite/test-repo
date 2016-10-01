@@ -1,2 +1,2 @@
-### @jorge_leite
-##  test R with Git
+. @jorge_leite
+###  test R with Git
